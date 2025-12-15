@@ -6,15 +6,13 @@
 | **Semester**     | 7th                                          |
 | **USN**          | 1CD22AI046                                   |
 | **Department**   | Artificial Intelligence and Machine Learning |
-| **Subject**      | Deep Learning                                |
+| **Subject**      | Deep Learning and Reinforcement Learning     |
 | **Subject Code** | BAI701                                       |
 
 
 📌 Assignment Summary
 
-This repository contains the Deep Learning assignment programs implemented as part of the BAI701 course.
-
-Initially, basic versions of each program were provided. I have modified and enhanced each program to improve performance, readability, and learning outcomes.
+This repository contains the Deep Learning assignment programs implemented as part of the BAI701 course. Initially, basic versions of each program were provided. I have modified and enhanced each program to improve performance, readability, and learning outcomes.
 
 Through these changes, I gained hands-on experience in:
 
@@ -31,6 +29,7 @@ Understanding why architectural and training choices matter in deep learning
 All programs were executed successfully after modification.
 
 📂 Project Structure
+
 DL_ASSIGNMENT/
 │
 ├── airline-passengers.csv
@@ -46,6 +45,7 @@ DL_ASSIGNMENT/
 🧠 Program-wise Explanation of Changes
 
 1️⃣ AlexNet.py – Convolutional Neural Network
+
 🔹 Original Implementation
 
 Basic AlexNet CNN architecture
@@ -75,6 +75,7 @@ Reduces internal covariate shift
 Improves accuracy and stability for deep CNNs
 
 2️⃣ Rnn.py – Character-Level RNN Text Generation
+
 🔹 Original Implementation
 
 SimpleRNN with ReLU activation
@@ -108,6 +109,7 @@ Small dataset requires controlled training
 Improves learning stability
 
 3️⃣ LSTM.py – Airline Passenger Time Series Prediction
+
 🔹 Original Implementation
 
 Single LSTM layer (10 units)
@@ -147,6 +149,7 @@ Adaptive learning improves convergence
 MAE gives more interpretable error values
 
 4️⃣ Deepreinforcementlearning.py – Q-Learning on Graph
+
 🔹 Original Implementation
 
 Q-learning to find shortest path
@@ -176,6 +179,7 @@ Better modularization helps explain RL concepts
 Makes the code easier for academic explanation
 
 5️⃣ TicTacToe.py – Reinforcement Learning Game Agent
+
 🔹 Original Implementation
 
 Q-learning based Tic-Tac-Toe
@@ -218,15 +222,14 @@ Faster execution while maintaining accuracy
 
 
 ▶️ How to Run the Programs
+
 🔹 Step 1: Clone or Download the Repository
 git clone https://github.com/Ramyashree-20/Deep-Learning-Assignment.git
 cd DL_ASSIGNMENT
 
-
 Or download and extract the ZIP file.
 
 🔹 Step 2: Create / Activate Python Environment (Recommended)
-
 Using Conda:
 
 conda create -n dl_env python=3.9
@@ -235,17 +238,14 @@ conda activate dl_env
 🔹 Step 3: Install Required Libraries
 pip install numpy pandas matplotlib tensorflow keras scikit-learn networkx
 
-
 (Optional for plotting model architecture)
 
 pip install pydot graphviz
 
 🔹 Step 4: Run Individual Programs
-
 Run any program using:
 
 python filename.py
-
 
 Examples:
 
@@ -281,7 +281,5 @@ Windows / Linux / macOS
 🏁 Conclusion
 
 All programs were successfully executed after modification.
-
 This assignment helped me gain strong practical understanding of Deep Learning architectures and Reinforcement Learning techniques. The process of modifying existing code improved my ability to analyze, 
-
 optimize, and explain deep learning models effectively.
