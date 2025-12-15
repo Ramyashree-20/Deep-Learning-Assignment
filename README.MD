@@ -1,15 +1,19 @@
 👩‍🎓 Student Details
-Field	Information
-Name	Ramya Shree R
-Semester	7th
-USN	1CD22AI046
-Department	Artificial Intelligence and Machine Learning
-Subject	Deep Learning and Reinforcement Learning
-Subject Code	BAI701
+
+| Field            | Information                                  |
+| ---------------- | -------------------------------------------- |
+| **Name**         | Ramya Shree R                                |
+| **Semester**     | 7th                                          |
+| **USN**          | 1CD22AI046                                   |
+| **Department**   | Artificial Intelligence and Machine Learning |
+| **Subject**      | Deep Learning                                |
+| **Subject Code** | BAI701                                       |
+
 
 📌 Assignment Summary
 
 This repository contains the Deep Learning assignment programs implemented as part of the BAI701 course.
+
 Initially, basic versions of each program were provided. I have modified and enhanced each program to improve performance, readability, and learning outcomes.
 
 Through these changes, I gained hands-on experience in:
@@ -34,7 +38,7 @@ DL_ASSIGNMENT/
 ├── Rnn.py
 ├── LSTM.py
 ├── Deepreinforcementlearning.py
-├── TicTocToe.py
+├── TicTacToe.py
 ├── policy_p1
 ├── original_data.png
 └── README.md
@@ -203,12 +207,15 @@ Fair reward propagation improves learning
 Faster execution while maintaining accuracy
 
 ✅ Result Summary
-Program Name	Execution Status
-AlexNet.py	✅ Executed Successfully
-Rnn.py	✅ Executed Successfully
-LSTM.py	✅ Executed Successfully
-Deepreinforcementlearning.py	✅ Executed Successfully
-TicTacToe.py	✅ Executed Successfully
+
+| Program Name                 | Execution Status        |
+| ---------------------------- | ----------------------- |
+| AlexNet.py                   | ✅ Executed Successfully |
+| Rnn.py                       | ✅ Executed Successfully |
+| LSTM.py                      | ✅ Executed Successfully |
+| Deepreinforcementlearning.py | ✅ Executed Successfully |
+| TicTacToe.py                 | ✅ Executed Successfully |
+
 
 ▶️ How to Run the Programs
 🔹 Step 1: Clone or Download the Repository
@@ -249,15 +256,18 @@ python Deepreinforcementlearning.py
 python TicTacToe.py
 
 📦 Libraries / Tools Used
-Library	Purpose
-NumPy	Numerical computations
-Pandas	Dataset handling
-Matplotlib	Data visualization
-TensorFlow / Keras	Deep learning models
-Scikit-learn	Scaling and evaluation metrics
-NetworkX	Graph visualization (RL)
-Math	Error calculations
-OS / urllib	Dataset download and file handling
+
+| Library                | Purpose                            |
+| ---------------------- | ---------------------------------- |
+| **NumPy**              | Numerical computations             |
+| **Pandas**             | Dataset handling                   |
+| **Matplotlib**         | Data visualization                 |
+| **TensorFlow / Keras** | Deep learning models               |
+| **Scikit-learn**       | Scaling and evaluation metrics     |
+| **NetworkX**           | Graph visualization (RL)           |
+| **Math**               | Error calculations                 |
+| **OS / urllib**        | Dataset download and file handling |
+
 💻 System Requirements
 
 Python 3.8 – 3.11
@@ -271,4 +281,7 @@ Windows / Linux / macOS
 🏁 Conclusion
 
 All programs were successfully executed after modification.
-This assignment helped me gain strong practical understanding of Deep Learning architectures and Reinforcement Learning techniques. The process of modifying existing code improved my ability to analyze, optimize, and explain deep learning models effectively.
+
+This assignment helped me gain strong practical understanding of Deep Learning architectures and Reinforcement Learning techniques. The process of modifying existing code improved my ability to analyze, 
+
+optimize, and explain deep learning models effectively.
