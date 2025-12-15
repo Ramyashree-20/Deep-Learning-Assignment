@@ -30,19 +30,6 @@ Through these changes, I gained hands-on experience in:
 
 All programs were executed successfully after modification.
 
-📂 Project Structure
-DL_ASSIGNMENT/
-│
-├── airline-passengers.csv
-├── AlexNet.py
-├── Rnn.py
-├── LSTM.py
-├── Deepreinforcementlearning.py
-├── TicTacToe.py
-├── policy_p1
-├── original_data.png
-└── README.md
-
 🧠 Program-wise Explanation of Changes
 
 1️⃣ AlexNet.py – Convolutional Neural Network
