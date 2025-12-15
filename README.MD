@@ -35,22 +35,15 @@ All programs were executed successfully after modification.
 DL_ASSIGNMENT/
 │
 ├── airline-passengers.csv
-|
 ├── AlexNet.py
-|
 ├── Rnn.py
-|
 ├── LSTM.py
-|
 ├── Deepreinforcementlearning.py
-|
 ├── TicTacToe.py
-|
 ├── policy_p1
-|
 ├── original_data.png
-|
 └── README.md
+
 
 🧠 Program-wise Explanation of Changes
 
