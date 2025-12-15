@@ -1,6 +1,8 @@
+**Deep Leaarning and Reinforcement Learning Assignment Report**
+
 👩‍🎓 Student Details
 
-| Field            | Information                                  |
+| Field            | Info                                         |
 | ---------------- | -------------------------------------------- |
 | **Name**         | Ramya Shree R                                |
 | **Semester**     | 7th                                          |
@@ -16,15 +18,15 @@ This repository contains the Deep Learning assignment programs implemented as pa
 
 Through these changes, I gained hands-on experience in:
 
-Neural network architecture design
+-Neural network architecture design
 
-CNNs, RNNs, LSTMs, and Reinforcement Learning
+-CNNs, RNNs, LSTMs, and Reinforcement Learning
 
-Dataset preprocessing and normalization
+-Dataset preprocessing and normalization
 
-Model evaluation and visualization
+-Model evaluation and visualization
 
-Understanding why architectural and training choices matter in deep learning
+-Understanding why architectural and training choices matter in deep learning
 
 All programs were executed successfully after modification.
 
@@ -33,13 +35,21 @@ All programs were executed successfully after modification.
 DL_ASSIGNMENT/
 │
 ├── airline-passengers.csv
+|
 ├── AlexNet.py
+|
 ├── Rnn.py
+|
 ├── LSTM.py
+|
 ├── Deepreinforcementlearning.py
+|
 ├── TicTacToe.py
+|
 ├── policy_p1
+|
 ├── original_data.png
+|
 └── README.md
 
 🧠 Program-wise Explanation of Changes
@@ -224,18 +234,23 @@ Faster execution while maintaining accuracy
 ▶️ How to Run the Programs
 
 🔹 Step 1: Clone or Download the Repository
+
 git clone https://github.com/Ramyashree-20/Deep-Learning-Assignment.git
+
 cd DL_ASSIGNMENT
 
 Or download and extract the ZIP file.
 
 🔹 Step 2: Create / Activate Python Environment (Recommended)
+
 Using Conda:
 
 conda create -n dl_env python=3.9
+
 conda activate dl_env
 
 🔹 Step 3: Install Required Libraries
+
 pip install numpy pandas matplotlib tensorflow keras scikit-learn networkx
 
 (Optional for plotting model architecture)
@@ -243,6 +258,7 @@ pip install numpy pandas matplotlib tensorflow keras scikit-learn networkx
 pip install pydot graphviz
 
 🔹 Step 4: Run Individual Programs
+
 Run any program using:
 
 python filename.py
