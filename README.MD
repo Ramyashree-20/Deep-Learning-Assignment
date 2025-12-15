@@ -31,7 +31,6 @@ Through these changes, I gained hands-on experience in:
 All programs were executed successfully after modification.
 
 📂 Project Structure
-
 DL_ASSIGNMENT/
 │
 ├── airline-passengers.csv
@@ -43,7 +42,6 @@ DL_ASSIGNMENT/
 ├── policy_p1
 ├── original_data.png
 └── README.md
-
 
 🧠 Program-wise Explanation of Changes
 
